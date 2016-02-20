@@ -1,5 +1,5 @@
 require "minitest/autorun"
-require "./complete_me"
+require "./lib/complete_me"
 
 describe CompleteMe do
   before do
